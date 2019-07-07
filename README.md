@@ -8,8 +8,7 @@ Open-Source [Vue](https://vuejs.org/) admin dashboards.
 
 Read more about [Vue Dashboard Light Blue Admin](https://admin-dashboards.com/vue-dashboard-light-blue-admin-flatlogic).
 
-![Vue Dashboard Light Blue Admin
- - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-blue-admin-intro.gif?raw=true)
+![Vue Dashboard Light Blue Admin - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-blue-admin-intro.gif?raw=true)
 
 
 ---
