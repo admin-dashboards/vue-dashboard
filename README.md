@@ -1,15 +1,206 @@
-# Vue dashboards
+# [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
+A curated list with Vue Admin Dashboards, released under the MIT license and actively supported by the publishers
 
-Open-Source [Vue](https://vuejs.org/) admin dashboards.
+<br />
 
-## Vue Dashboard Light Blue Admin
+## [Vue](https://vuejs.org/) [Material Dashboard](https://www.creative-tim.com/product/vue-material-dashboard)
 
-[Vue Dashboard Light Blue Admin](https://admin-dashboards.com/vue-dashboard-light-blue-admin-flatlogic) is an dashboard template built with VueJS, Vue CLI and Bootstrap4. Unique unobtrusive design with slightly transparent widgets and gradient background make this Vue JS template a rare offer among other vue templates.
+Vue Material Dashboard is a beautiful resource built over Vue Material and Vuejs. It will help you get started developing dashboards in no time. Vue Material Dashboard is the official Vuejs version of the Original Material Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vuejs and Vue Router.
 
-Read more about [Vue Dashboard Light Blue Admin](https://admin-dashboards.com/vue-dashboard-light-blue-admin-flatlogic).
+### Dashboard Links
 
-![Vue Dashboard Light Blue Admin - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-blue-admin-intro.gif?raw=true)
+ - [Vue Dashboard Material](https://www.creative-tim.com/product/vue-material-dashboard)
+ - [Vue Dashboard Material demo](https://demos.creative-tim.com/vue-material-dashboard/#/dashboard)
+ - [Vue Dashboard Material sources](https://github.com/creativetimofficial/vue-material-dashboard)
 
+![Vue Dashboard Material - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-material-intro.gif?raw=true)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/creativetimofficial/vue-material-dashboard.git
+$ cd vue-material-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+$ yarn build # build for production
+```
+
+<br />
+
+## [Vue](https://vuejs.org/) [Vuetify Material Dashboard](https://www.creative-tim.com/product/vuetify-material-dashboard)
+
+Vuetify Material Dashboard is a beautiful resource built over Vuetify, Vuex and Vuejs. It will help you get started developing dashboards in no time. Vuetify Material Dashboard is the official Vuejs version of the Original Material Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vuejs and Vue Router.
+
+### Dashboard Links
+
+ - [Vuetify Material Dashboard](https://www.creative-tim.com/product/vuetify-material-dashboard) - official product page
+ - [Vuetify Material Dashboard demo](https://demos.creative-tim.com/vuetify-material-dashboard/#/dashboard)
+ - [Vuetify Material Dashboard sources](https://github.com/creativetimofficial/vuetify-material-dashboard) 
+
+![Vuetify Material Dashboard - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-vuetify-material-intro.gif?raw=true)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/creativetimofficial/vuetify-material-dashboard.git
+$ cd vuetify-material-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+$ yarn build # build for production
+```
+
+<br />
+
+## [Vue](https://vuejs.org/) [Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard)
+
+[Vue Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard) is a beautiful resource built over Bootstrap 4 and [Vue](https://vuejs.org/). It will help you get started developing dashboards in no time. **Vue Dashboard Light Bootstrap** is the official **Vue** version of the Original Light Bootstrap Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vue, and Vue-Router.
+
+### Dashboard Links
+
+ - [Vue Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard) - the official product page
+ - [Vue Dashboard Light Bootstrap demo](https://demos.creative-tim.com/vue-light-bootstrap-dashboard/?ref=appseed)
+ - [Vue Dashboard Light Bootstrap sources](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - published on Github
+
+![Vue Dashboard Light Bootstrap - App ScreenShot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-bootstrap-screen.jpg?raw=true)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/creativetimofficial/vue-light-bootstrap-dashboard.git
+$ cd vue-light-bootstrap-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+## [Vue](https://vuejs.org/) Dashboard Light Blue Admin
+
+[Vue Dashboard Light Blue Admin](https://flatlogic.com/admin-dashboards/light-blue-vue-lite) - is a dashboard template built with Vue JS (Vue CLI) and Bootstrap 4, designed by Flatlogic. Some of the dashboard features:
+
+ - Responsive, Transparent design
+ - Technologies: [Vue](https://vuejs.org/) 2.5.2, Bootstrap4
+ - Charts & Google Maps
+ - No login or registration pages
+
+### Dashboard Links
+ 
+ - [Vue Dashboard Light Blue Admin](https://flatlogic.com/admin-dashboards/light-blue-vue-lite?ref=appseed) - the official product page
+ - [Vue Dashboard Light Blue Admin demo](https://flatlogic.github.io/light-blue-vue-admin/#/app/dashboard)
+ - [Vue Dashboard Light Blue Admin sources](https://github.com/flatlogic/light-blue-vue-admin?ref=appseed) - published on Github
+
+![Vue Dashboard Light Blue Admin - App ScreenShot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-blue-admin-screen.jpg?raw=true)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/flatlogic/light-blue-vue-admin.git
+$ cd light-blue-vue-admin
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+## [Vue](https://vuejs.org/) [Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard)
+
+[Vue Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard) is a beautiful Bootstrap4 and **Admin Dashboard** with a generous number of components and a distinct UI. 
+
+### Dashboard Links
+ 
+ - [Vue Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard?ref=appseed) - the official page
+ - [Vue Dashboard Black sources](https://github.com/creativetimofficial/vue-black-dashboard?ref=appseed) - published on Github
+ - [Vue Dashboard Black demo](https://demos.creative-tim.com/vue-black-dashboard/#/dashboard) 
+
+![Vue Dashboard Black - App Screen Shot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-black-screen.jpg?raw=true)
+
+### Build Black Dashboard from sources
+
+```
+$ git clone https://github.com/creativetimofficial/vue-black-dashboard.git
+$ cd vue-black-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+## [Vue](https://vuejs.org/) [Dashboard Shards Lite](https://designrevision.com/downloads/shards-dashboard-lite-vue/)
+
+[Vue Dashboard Shards Lite](https://designrevision.com/downloads/shards-dashboard-lite-vue/) is a free [Vue](https://vuejs.org/) **admin dashboard**  template pack featuring a modern design system and lots of custom templates and components. **Vue Dashboard** Shards Lite comes packed with templates and dozens of custom components that you can use to kick-start your next app.
+
+### Dashboard Links
+
+ - [Vue Dashboard Shards Lite](https://designrevision.com/downloads/shards-dashboard-lite-vue/?ref=appseed) - the official page
+ - [Vue Dashboard Shards Lite sources](https://github.com/DesignRevision/shards-dashboard-vue?ref=appseed) - published on Github
+ - [Vue Dashboard Shards Lite demo](https://designrevision.com/demo/shards-dashboard-lite-vue/?ref=appseed)
+
+![Vue Dashboard Shards Lite - App Screen Shot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-shards-lite-screen.jpg?raw=true)
+
+### Build Shards Dashboard from sources
+
+```
+$ git clone https://github.com/DesignRevision/shards-dashboard-vue.git
+$ cd shards-dashboard-vue
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+## [Vue](https://vuejs.org/) [Dashboard Argon](https://www.creative-tim.com/product/vue-argon-dashboard)
+
+[Vue Dashboard Argon](https://www.creative-tim.com/product/vue-argon-dashboard) is an admin panel designed by Creative-Tim built with over 100 individual components. Using this app, any developer with a piece of minimum [Vue](https://vuejs.org/) knowledge can build in a few hours a functional **admin dashboard** ready to be deployed in production.
+
+### Dashboard Links
+
+ - [Vue Dashboard Argon](https://www.creative-tim.com/product/vue-argon-dashboard?ref=appseed) - the official page
+ - [Vue Dashboard Argon sources](https://github.com/creativetimofficial/vue-argon-dashboard?ref=appseed) - published on Github
+ - [Vue Dashboard Argon demo](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard)
+
+![Vue Dashboard Argon - App Screen Shot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-argon-screen.jpg?raw=true) 
+
+### Build Dashboard Argon from sources
+
+```
+$ git clone https://github.com/creativetimofficial/vue-argon-dashboard.git
+$ cd vue-argon-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+[Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
+
+
+## [Vue](https://vuejs.org/) [Dashboard Paper](https://www.creative-tim.com/product/vue-paper-dashboard)
+
+[Vue Dashboard Paper](https://www.creative-tim.com/product/vue-paper-dashboard) is a beautiful and simple admin panel built over Bootstrap and [Vue](https://vuejs.org/) It will help you get started developing **admin dashboards** in no time. Using the Vue Dashboard Paper is pretty simple but requires basic knowledge of Javascript, Vue, and Vue-Router.
+
+### Dashboard Links
+
+ - [Vue Dashboard Paper](https://www.creative-tim.com/product/vue-paper-dashboard?ref=appseed) - the official page
+ - [Vue Dashboard Paper sources](https://github.com/creativetimofficial/vue-paper-dashboard?ref=appseed) - published on Github
+ - [Vue Dashboard Paper demo](https://demos.creative-tim.com/vue-paper-dashboard/#/dashboard)
+
+![Vue Dashboard Paper - App Screen Shot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-paper-screen.jpg?raw=true) 
+
+### Build Shards Dashboard from sources
+
+```
+$ git clone https://github.com/creativetimofficial/vue-paper-dashboard.git
+$ cd vue-paper-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+## Other Free [Vue](https://vuejs.org/) Dashboards (untested)
+
+ - [Vue-admin](https://github.com/Cambalab/vue-admin)
+ - [Vue Dashboard Star Admin](https://www.bootstrapdash.com/product/star-admin-free/) - [demo](https://www.bootstrapdash.com/demo/star-admin-vue/), [sources](https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template)
 
 ---
-Index provided by [Admin Dashboards](https://admin-dashboards.com)
+[Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
