@@ -228,9 +228,6 @@ $ yarn serve # start the Vue dashboard app for development
 
 <br />
 
-[Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
-
-
 ## [Vue](https://vuejs.org/) [Dashboard Paper](https://www.creative-tim.com/product/vue-paper-dashboard)
 
 [Vue Dashboard Paper](https://www.creative-tim.com/product/vue-paper-dashboard) is a beautiful and simple admin panel built over Bootstrap and [Vue](https://vuejs.org/) It will help you get started developing **admin dashboards** in no time. Using the Vue Dashboard Paper is pretty simple but requires basic knowledge of Javascript, Vue, and Vue-Router.
