@@ -27,6 +27,22 @@ $ yarn build # build for production
 
 <br />
 
+## [Vue Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?ref=appseed)
+
+[Vue Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?ref=appseed) is a beautiful Bootstrap 4 and Vue.js Admin Dashboard with a huge number of components built to fit together and look amazing. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+Every element has multiple states for colors, styles, hover, focus, that you can easily access and use. 
+
+### Dashboard Links
+
+- [Vue Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?ref=appseed) - product page
+- [Vue Dashboard White](https://demos.creative-tim.com/vue-white-dashboard/#/dashboard) - Live DEMO 
+- [Vue Dashboard White Sources](https://github.com/creativetimofficial/vue-white-dashboard)
+- [Vue Dashboard White](https://admin-dashboards.com/vue-dashboard-white-creative-tim) - The full review on [Admin-Dashboards.com](https://admin-dashboards.com)
+
+![Vue Dashboard White - Free Vuejs Admin Dashboard.](https://raw.githubusercontent.com/admin-dashboards/static/master/vue-dashboard-white-creative-tim-intro.gif)
+
+<br />
+
 ## [Vue](https://vuejs.org/) [Vuetify Material Dashboard](https://www.creative-tim.com/product/vuetify-material-dashboard)
 
 Vuetify Material Dashboard is a beautiful resource built over Vuetify, Vuex and Vuejs. It will help you get started developing dashboards in no time. Vuetify Material Dashboard is the official Vuejs version of the Original Material Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vuejs and Vue Router.
