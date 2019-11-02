@@ -43,30 +43,6 @@ Every element has multiple states for colors, styles, hover, focus, that you can
 
 <br />
 
-## [Vue](https://vuejs.org/) [Vuetify Material Dashboard](https://www.creative-tim.com/product/vuetify-material-dashboard)
-
-Vuetify Material Dashboard is a beautiful resource built over Vuetify, Vuex and Vuejs. It will help you get started developing dashboards in no time. Vuetify Material Dashboard is the official Vuejs version of the Original Material Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vuejs and Vue Router.
-
-### Dashboard Links
-
- - [Vuetify Material Dashboard](https://www.creative-tim.com/product/vuetify-material-dashboard) - official product page
- - [Vuetify Material Dashboard demo](https://demos.creative-tim.com/vuetify-material-dashboard/#/dashboard)
- - [Vuetify Material Dashboard sources](https://github.com/creativetimofficial/vuetify-material-dashboard) 
-
-![Vuetify Material Dashboard - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-vuetify-material-intro.gif?raw=true)
-
-### Build dashboard from sources
-
-```
-$ git clone https://github.com/creativetimofficial/vuetify-material-dashboard.git
-$ cd vuetify-material-dashboard
-$ yarn # install dependencies
-$ yarn serve # start the Vue dashboard app for development
-$ yarn build # build for production
-```
-
-<br />
-
 ## [Vue](https://vuejs.org/) [Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard)
 
 [Vue Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard) is a beautiful resource built over Bootstrap 4 and [Vue](https://vuejs.org/). It will help you get started developing dashboards in no time. **Vue Dashboard Light Bootstrap** is the official **Vue** version of the Original Light Bootstrap Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vue, and Vue-Router.
@@ -86,6 +62,29 @@ $ git clone https://github.com/creativetimofficial/vue-light-bootstrap-dashboard
 $ cd vue-light-bootstrap-dashboard
 $ yarn # install dependencies
 $ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+## [Vue Dashboard CoPilot](https://github.com/misterGF/CoPilot)
+
+CoPilot is a fully responsive admin template that is forked from AdminLTE. The difference here is that this repo is tailored to use with Vue.js. The UI is based on the Bootstrap 3 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
+
+### Dashboard Links
+
+ - [Vue Dashboard CoPilot Demo](https://copilot.mistergf.io/)
+ - [Vue Dashboard CoPilot Sources](https://github.com/misterGF/CoPilot)
+
+![CoPilot - Open-Source Admin dashboard](https://raw.githubusercontent.com/admin-dashboards/static/master/open-source-vue-dashboard-copilot-intro.gif)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/misterGF/CoPilot.git
+$ cd CoPilot
+$ yarn # install dependencies
+$ yarn dev # start the Vue dashboard app for development
+$ yarn build # build for production
 ```
 
 <br />
@@ -135,6 +134,48 @@ $ yarn serve # start the Vue dashboard app for development
 ```
 $ git clone https://github.com/creativetimofficial/vue-black-dashboard.git
 $ cd vue-black-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+```
+
+<br />
+
+## Vue Dashboard ArchitectUI
+
+As a base framework, ArchitectUI Vue is powered by @vue/cli version 3.4.1 and Bootstrap 4 Vue implementation. It contains 15 handpicked Vue widgets and components that are perfectly integrated with each other in order to create a common design language. In order to use this Vue theme, you’ll need at least basic coding skills. Don’t worry, the theme has pretty straight forward coding and uses Vue Router for the navigation links.
+
+### Dashboard Links
+
+- [Vue Dashboard ArchitectUI](https://github.com/admin-dashboards/vue-dashboard-architectui-free) - Github repository 
+- [Vue Dashboard ArchitectUI](https://vue-dashboard-architectui-free.admin-dashboards.com/) - Live DEMO
+- [Vue Dashboard ArchitectUI](https://admin-dashboards.com/vue-dashboard-architectui-free) - The full review on [Admin-Dashboards.com](https://admin-dashboards.com)
+
+
+![Vue Dashboard ArchitectUI - Open-Source Admin Panel](https://raw.githubusercontent.com/admin-dashboards/static/master/vue-dashboard-architectui-free-screen.png)
+
+<br />
+
+## Vue Dashboard Light Blue
+
+**Vue Dashboard** Light Blue is a dashboard template built with Vue JS (Vue CLI) and Bootstrap 4, designed by Flatlogic. Some of the dashboard features:
+
+- Responsive, Transparent design
+- Technologies: [Vue](https://vuejs.org/) 2.5.2, Bootstrap4
+- Charts & Google Maps
+- No login or registration pages
+
+### Dashboard Links
+ 
+ - [Vue Dashboard Light Blue Admin demo](https://flatlogic.github.io/light-blue-vue-admin/#/app/dashboard)
+ - [Vue Dashboard Light Blue Admin sources](https://github.com/flatlogic/light-blue-vue-admin?ref=appseed) - published on Github
+
+![Vue Dashboard Light Blue Admin - App ScreenShot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-blue-admin-screen.jpg?raw=true)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/flatlogic/light-blue-vue-admin.git
+$ cd light-blue-vue-admin
 $ yarn # install dependencies
 $ yarn serve # start the Vue dashboard app for development
 ```
