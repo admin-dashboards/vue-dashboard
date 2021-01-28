@@ -3,88 +3,118 @@ A curated list with Vue Admin Dashboards, released under the MIT license and act
 
 <br />
 
-## [Vue Dashboard - Black Design](https://www.creative-tim.com/product/vue-black-dashboard?AFFILIATE=128200)
+## [Vue Dashboard - Vuetify Material](https://bit.ly/39TwqHU)
 
-[Vue Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard?AFFILIATE=128200) is a beautiful Bootstrap4 and **Admin Dashboard** with a generous number of components and a distinct UI. 
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
 
-### Dashboard Links
+<br />
+
+Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
+
+<br />
+
+- [Vue Dashboard Vuetify Material](https://bit.ly/39TwqHU) - product page
+- **[Vue Vuetify Material PRO](https://bit.ly/2IfRTPY)** - more pages and components 
+
+<br />
+
+![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
+
+<br />
+
+## [Vue Dashboard - Argon](https://bit.ly/3o8LF3B)
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+<br />
+
+- [Vue Dashboard Argon](https://bit.ly/3o8LF3B) - product page
+- **[Vue Dashboard Argon PRO](https://bit.ly/2HKGNCj)** - more pages and components
+
+<br />
+
+![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
+
+<br />
+
+## [Vue Dashboard - Tailwind CSS](https://bit.ly/2L8GuCV)
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+The previous design can be downloaded also in Vue, another popular UI Framework. This Free Tailwind CSS Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+<br />
+
+- [Tailwind Vue Starter](https://bit.ly/2L8GuCV) - product page
+- More **[Vue Templates](https://bit.ly/3lkqRV4)** provided by Creative-Tim 
+
+<br />
+
+![Tailwind CSS Vue - Free starter provided by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/tailwind-css-free-starters/main/media/tailwind-css-vue-notus-free-starter.jpg)
+
+<br />
+
+## [Vue Dashboard - Light Bootstrap](https://bit.ly/3ghb5te)
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+**Vue Dashboard** Light Bootstrap is a beautiful resource built over Bootstrap 4 and [Vue](https://vuejs.org/). It will help you get started developing dashboards in no time. **Vue Dashboard Light Bootstrap** is the official **Vue** version of the Original Light Bootstrap Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vue, and Vue-Router.
+
+<br />
+
+- [Vue Light Bootstrap](https://bit.ly/3ghb5te) - product page
+- **[Vue Light Bootstrap PRO](https://bit.ly/33NrUXY)** - more pages and components
+
+<br />
+
+![Vue Dashboard Light Bootstrap - App ScreenShot.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-light-bootstrap-screen.png)
+
+<br />
+
+## [Vue Dashboard Black](https://bit.ly/3lG8LgA)
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+**Vue Dashboard Black** is a beautiful Bootstrap4 and **Admin Dashboard** with a generous number of components and a distinct UI. Vue Black Dashboard features over 16 individual components, giving you the freedom of choosing and combining. This means that there are thousands of possible combinations. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+
+<br />
  
- - [Vue Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard?AFFILIATE=128200) - the official page
- - [Vue Dashboard Black sources](https://github.com/creativetimofficial/vue-black-dashboard?AFFILIATE=128200) - published on Github
- - [Vue Dashboard Black demo](https://demos.creative-tim.com/vue-black-dashboard/#/dashboard) 
-
-![Vue Dashboard Black - App Screen Shot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-black-screen.jpg?raw=true)
-
-### Build Black Dashboard from sources
-
-```
-$ git clone https://github.com/creativetimofficial/vue-black-dashboard.git
-$ cd vue-black-dashboard
-$ yarn # install dependencies
-$ yarn serve # start the Vue dashboard app for development
-```
+- [Vue Dashboard Black](https://bit.ly/3lG8LgA) - product page
+- **[Vue Dashboard Black PRO](https://bit.ly/36M8EvL)** - more pages and components
 
 <br />
 
-## [Vue](https://vuejs.org/) [Material Dashboard](https://www.creative-tim.com/product/vue-material-dashboard?AFFILIATE=128200)
-
-Vue Material Dashboard is a beautiful resource built over Vue Material and Vuejs. It will help you get started developing dashboards in no time. Vue Material Dashboard is the official Vuejs version of the Original Material Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vuejs and Vue Router.
-
-### Dashboard Links
-
- - [Vue Dashboard Material](https://www.creative-tim.com/product/vue-material-dashboard?AFFILIATE=128200)
- - [Vue Dashboard Material demo](https://demos.creative-tim.com/vue-material-dashboard/#/dashboard?AFFILIATE=128200)
- - [Vue Dashboard Material sources](https://github.com/creativetimofficial/vue-material-dashboard)
-
-![Vue Dashboard Material - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-material-intro.gif?raw=true)
-
-### Build dashboard from sources
-
-```
-$ git clone https://github.com/creativetimofficial/vue-material-dashboard.git
-$ cd vue-material-dashboard
-$ yarn # install dependencies
-$ yarn serve # start the Vue dashboard app for development
-$ yarn build # build for production
-```
+![Vue Dashboard Black - App ScreenShot.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard-black/master/media/vue-dashboard-black-screen.png)
 
 <br />
 
-## [Vue Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?AFFILIATE=128200)
+## [Vue Dashboard - White Design](https://bit.ly/2JFjfQj)
 
-[Vue Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?ref=appseed) is a beautiful Bootstrap 4 and Vue.js Admin Dashboard with a huge number of components built to fit together and look amazing. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+**Vue Dashboard White** is a beautiful Bootstrap 4 and Vue.js Admin Dashboard with a huge number of components built to fit together and look amazing. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use. 
 
-### Dashboard Links
+<br />
 
-- [Vue Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?AFFILIATE=128200) - product page
-- [Vue Dashboard White](https://demos.creative-tim.com/vue-white-dashboard/#/dashboard?AFFILIATE=128200) - Live DEMO 
-- [Vue Dashboard White Sources](https://github.com/creativetimofficial/vue-white-dashboard)
-
-![Vue Dashboard White - Free Vuejs Admin Dashboard.](https://raw.githubusercontent.com/admin-dashboards/static/master/vue-dashboard-white-creative-tim-intro.gif)
+- [Vue Dashboard White](https://bit.ly/2JFjfQj) - product page
+- More **[Vue Templates](https://bit.ly/3lkqRV4)** provided by Creative-Tim
 
 <br />
 
-## [Vue](https://vuejs.org/) [Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard?AFFILIATE=128200)
-
-[Vue Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard?AFFILIATE=128200) is a beautiful resource built over Bootstrap 4 and [Vue](https://vuejs.org/). It will help you get started developing dashboards in no time. **Vue Dashboard Light Bootstrap** is the official **Vue** version of the Original Light Bootstrap Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vue, and Vue-Router.
-
-### Dashboard Links
-
- - [Vue Dashboard Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard?AFFILIATE=128200) - the official product page
- - [Vue Dashboard Light Bootstrap demo](https://demos.creative-tim.com/vue-light-bootstrap-dashboard/?AFFILIATE=128200)
- - [Vue Dashboard Light Bootstrap sources](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - published on Github
-
-![Vue Dashboard Light Bootstrap - App ScreenShot.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-bootstrap-screen.jpg?raw=true)
-
-### Build dashboard from sources
-
-```
-$ git clone https://github.com/creativetimofficial/vue-light-bootstrap-dashboard.git
-$ cd vue-light-bootstrap-dashboard
-$ yarn # install dependencies
-$ yarn serve # start the Vue dashboard app for development
-```
+![Vue Dashboard White - Free Vuejs Admin Dashboard.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard-white-design/master/media/vue-dashboard-white-design-screen.png)
 
 <br />
 
