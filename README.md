@@ -6,7 +6,7 @@ A curated list with Vue Admin Dashboards, released under the MIT license and act
 
 > Content curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
-<br />
+<br /> 
 
 ## ✨ [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
 
