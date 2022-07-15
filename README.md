@@ -2,8 +2,6 @@
 
 A curated list with Vue Admin Dashboards, released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
-<br />
-
 > Content curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
 <br /> 
