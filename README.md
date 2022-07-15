@@ -81,4 +81,4 @@ Every element has multiple states for colors, styles, hover, focus, that you can
 - ✨ More [Admin Dashboards](https://www.admin-dashboards.com/) - a huge index with products
 
 ---
-[Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
+Vue Dashboard - Open-Source and Free
