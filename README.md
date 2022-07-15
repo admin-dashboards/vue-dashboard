@@ -40,8 +40,8 @@ The previous design can be downloaded also in Vue, another popular UI Framework.
 
 **Vue Dashboard** Light Bootstrap is a beautiful resource built over Bootstrap 4 and [Vue](https://vuejs.org/). It will help you get started developing dashboards in no time. **Vue Dashboard Light Bootstrap** is the official **Vue** version of the Original Light Bootstrap Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vue, and Vue-Router.
 
-- 👉 [Vue Light Bootstrap](https://bit.ly/3ghb5te) - product page
-- 👉 **[Vue Light Bootstrap PRO](https://bit.ly/33NrUXY)** - more pages and components
+- 👉 [Vue Light Bootstrap](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Light Bootstrap](https://demos.creative-tim.com/vue-light-bootstrap-dashboard/#/admin/overview?AFFILIATE=128200) - `LIVE demo`
 
 ![Vue Dashboard Light Bootstrap - App ScreenShot.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-light-bootstrap-screen.png)
 
@@ -51,8 +51,8 @@ The previous design can be downloaded also in Vue, another popular UI Framework.
 
 **Vue Dashboard Black** is a beautiful Bootstrap4 and **Admin Dashboard** with a generous number of components and a distinct UI. Vue Black Dashboard features over 16 individual components, giving you the freedom of choosing and combining. This means that there are thousands of possible combinations. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
  
-- 👉 [Vue Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard?AFFILIATE=128200) - product page
-- 👉 [Vue Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard?AFFILIATE=128200) - product page
+- 👉 [Vue Dashboard Black](https://www.creative-tim.com/product/vue-black-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Dashboard Black](https://demos.creative-tim.com/vue-black-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
 
 ![Vue Dashboard Black - App ScreenShot.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard-black/master/media/vue-dashboard-black-screen.png)
 
