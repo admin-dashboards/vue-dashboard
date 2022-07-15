@@ -4,6 +4,10 @@ A curated list with Vue Admin Dashboards, released under the MIT license and act
 
 <br />
 
+> Content curated by [Sm0ke](https://twitter.com/Sm0keDev)
+
+<br />
+
 ## ✨ [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
 
 Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
