@@ -40,12 +40,12 @@ Vuetify **Vue Dashboard** is developed exactly according to Material Design spec
 
 <br />
 
-## ✨ [Vue Dashboard - Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
+## ✨ [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
 
 Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-- 👉 [Vue Dashboard Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Dashboard Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
+- 👉 [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
 
 ![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
 
