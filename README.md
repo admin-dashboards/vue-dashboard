@@ -1,4 +1,4 @@
-# Vue Dashboard - Open-Source and Free
+# Free Vue Dashboards
 
 A curated list with Vue Admin Dashboards, released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
