@@ -15,6 +15,8 @@ Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard
 
 ![Xtreme Vue Admin Lite - Open-Source Vue Template from WrapPixel.](https://user-images.githubusercontent.com/51070104/181697344-9744bb49-14c7-419c-97db-952757308ce4.jpg)
 
+<br />
+
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
