@@ -1,10 +1,21 @@
-# Free Vue Dashboards
+# [Free Vue Dashboards](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1)
 
-A curated list with Vue Admin Dashboards, released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
+A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
 <br /> 
+
+## ✨ [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
+
+Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
+
+- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
+
+![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
+
+<br />
 
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
@@ -16,17 +27,6 @@ Vue Soft UI Dashboard is built with over 70 frontend individual elements, like b
 From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
 
 ![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
-
-<br />
-
-## ✨ [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
-
-Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
-
-- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
-
-![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
 
 <br />
 
@@ -61,6 +61,17 @@ Start your Development with an Innovative Admin Template for Bootstrap 5 and Vue
 - 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
 
 ![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
+
+<br />
+
+## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
+
+Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard template for your projects. If you are looking for a modern yet clean admin template for your backend project, Flexy Admin is the right choice.
+
+- 👉 [Flexy Vue Template](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157) - product page
+- 👉 [Flexy Vue Template](https://flexy-vuejs-free.netlify.app/dashboard) - LIVE demo
+
+![Flexy - Open-source Vue3 template by WrapPixel.](https://user-images.githubusercontent.com/51854817/186126220-ef01d34a-d5a4-40e5-85fa-8260066c9771.png)
 
 <br />
 
