@@ -2,7 +2,13 @@
 
 A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
-> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
+<br /> 
+
+> `PROMO` - 85%OFF: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)**
+
+The package includes a rock-solid collection of premium assets (Kits & Dashboards) that can be used to build eye-catching portfolios and web apps in no time.
+
+[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
 
 <br /> 
 
