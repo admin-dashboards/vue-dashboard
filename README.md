@@ -4,7 +4,7 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 
 <br /> 
 
-> `PROMO` - 85%OFF: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)**
+> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
 
 The package includes a rock-solid collection of premium assets (Kits & Dashboards) that can be used to build eye-catching portfolios and web apps in no time.
 
