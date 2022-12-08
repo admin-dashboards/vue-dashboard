@@ -6,6 +6,17 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 
 <br />
 
+## ✨ [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157)
+
+Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard template based on Vue CLI, Vuex & BootstrapVue component framework. If you are looking to build backend admin panel for yourself or your client’s project, Xtreme BootstrapVue Admin Lite is the perfect choice. It comes easy to use features and it is highly customisable. 
+
+- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
+- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
+
+![Xtreme Vue Admin Lite - Open-Source Vue Template from WrapPixel.](https://user-images.githubusercontent.com/51070104/181697344-9744bb49-14c7-419c-97db-952757308ce4.jpg)
+
+<br />
+
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
@@ -49,17 +60,6 @@ Start your Development with an Innovative Admin Template for Bootstrap 5 and Vue
 - 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
 
 ![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
-
-<br />
-
-## ✨ [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157)
-
-Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard template based on Vue CLI, Vuex & BootstrapVue component framework. If you are looking to build backend admin panel for yourself or your client’s project, Xtreme BootstrapVue Admin Lite is the perfect choice. It comes easy to use features and it is highly customisable. 
-
-- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
-- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
-
-![Xtreme Vue Admin Lite - Open-Source Vue Template from WrapPixel.](https://user-images.githubusercontent.com/51070104/181697344-9744bb49-14c7-419c-97db-952757308ce4.jpg)
 
 <br />
 
