@@ -6,6 +6,12 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 
 <br />
 
+## 🚀 [AppSeed](https://appseed.us/) `PROMO` 🔥50%OFF (all products)
+
+[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+
+<br />
+
 ## ✨ [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157)
 
 Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard template based on Vue CLI, Vuex & BootstrapVue component framework. If you are looking to build backend admin panel for yourself or your client’s project, Xtreme BootstrapVue Admin Lite is the perfect choice. It comes easy to use features and it is highly customisable. 
