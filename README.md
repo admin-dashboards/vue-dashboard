@@ -5,29 +5,6 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
 <br />
-
-## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200) - product page
-- 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
-
-![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
-
-<br /> 
-
-## ✨ [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157)
-
-Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard template based on Vue CLI, Vuex & BootstrapVue component framework. If you are looking to build backend admin panel for yourself or your client’s project, Xtreme BootstrapVue Admin Lite is the perfect choice. It comes easy to use features and it is highly customisable. 
-
-- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
-- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
-
-![Xtreme Vue Admin Lite - Open-Source Vue Template from WrapPixel.](https://user-images.githubusercontent.com/51070104/181697344-9744bb49-14c7-419c-97db-952757308ce4.jpg)
-
-<br />
-
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
@@ -60,6 +37,17 @@ Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard t
 - 👉 [Flexy Vue Template](https://flexy-vuejs-free.netlify.app/dashboard) - LIVE demo
 
 ![Flexy - Open-source Vue3 template by WrapPixel.](https://user-images.githubusercontent.com/51854817/186126220-ef01d34a-d5a4-40e5-85fa-8260066c9771.png)
+
+<br />
+
+## ✨ [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157)
+
+Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard template based on Vue CLI, Vuex & BootstrapVue component framework. If you are looking to build backend admin panel for yourself or your client’s project, Xtreme BootstrapVue Admin Lite is the perfect choice. It comes easy to use features and it is highly customisable. 
+
+- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
+- 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
+
+![Xtreme Vue Admin Lite - Open-Source Vue Template from WrapPixel.](https://user-images.githubusercontent.com/51070104/181697344-9744bb49-14c7-419c-97db-952757308ce4.jpg)
 
 <br />
 
