@@ -5,6 +5,7 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
 <br />
+
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
