@@ -6,14 +6,6 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 
 <br />
 
-## 🎁 `PROMO` [MentorCruise](https://mentorcruise.com/?ref=appseed) - `Boost your Knowledge`
-
-> Master your craft with leading mentors at your side. Grow with every online mentoring session and take the next step in your career. 
-
-[![MentorCruise - Master your craft with leading mentors at your side.](https://user-images.githubusercontent.com/51854817/210748975-82c4ab30-0c0f-439e-be97-fedfdf8074fe.gif)](https://mentorcruise.com/?ref=appseed)
-
-<br />
-
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
