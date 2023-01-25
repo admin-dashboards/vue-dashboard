@@ -6,19 +6,6 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 
 <br />
 
-## `PROMO` 🚀 [SeRanking](https://seranking.com/?ga=2230964&source=link) - `All-in-one SEO Software`
-
-> **Award-winning SEO Tool** for your business - [Pricing starts from $25/mo](https://seranking.com/subscription.html?ga=2230964&source=link).
-
-- ✅ `100% accurate` keyword `rank tracking`
-- ✅ In-depth `website audit`
-- ✅ `Backlink checking` & monitoring
-- ✅ Keyword Research
-
-[![SeRanking - All-in-one SEO software made simple (service banner)](https://user-images.githubusercontent.com/51854817/212999126-2534c0d9-2237-4979-a5d2-b3fe30c3a05d.jpg)](https://seranking.com/?ga=2230964&source=link)
-
-<br />
-
 ## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
 
 Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
