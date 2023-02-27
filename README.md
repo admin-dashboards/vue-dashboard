@@ -6,14 +6,15 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 
 <br />
 
-## ✨ [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200)
+## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
 
-The previous design can be downloaded also in Vue, another popular UI Framework. This Free Tailwind CSS Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
 
-- 👉 [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200) - `product page`
-- 👉 More **[Vue Templates](https://bit.ly/3lkqRV4)** provided by Creative-Tim 
+- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
 
-![Tailwind CSS Vue - Free starter provided by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/tailwind-css-free-starters/main/media/tailwind-css-vue-notus-free-starter.jpg)
+![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
 
 <br />
 
@@ -74,18 +75,6 @@ Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard t
 
 <br />
 
-## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
-
-Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
-
-- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
-
-![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
-
-<br />
-
 ## ✨ [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
 
 Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
@@ -128,6 +117,17 @@ Every element has multiple states for colors, styles, hover, focus, that you can
 - 👉 [Vue Dashboard - White Design](https://www.creative-tim.com/product/vue-white-dashboard?AFFILIATE=128200) - product page
 
 ![Vue Dashboard White - Free Vuejs Admin Dashboard.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard-white-design/master/media/vue-dashboard-white-design-screen.png)
+
+<br />
+
+## ✨ [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200)
+
+The previous design can be downloaded also in Vue, another popular UI Framework. This Free Tailwind CSS Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200) - `product page`
+- 👉 More **[Vue Templates](https://bit.ly/3lkqRV4)** provided by Creative-Tim 
+
+![Tailwind CSS Vue - Free starter provided by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/tailwind-css-free-starters/main/media/tailwind-css-vue-notus-free-starter.jpg)
 
 <br />
 
