@@ -6,6 +6,17 @@ A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-op
 
 <br />
 
+## ✨ [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200)
+
+The previous design can be downloaded also in Vue, another popular UI Framework. This Free Tailwind CSS Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200) - `product page`
+- 👉 More **[Vue Templates](https://bit.ly/3lkqRV4)** provided by Creative-Tim 
+
+![Tailwind CSS Vue - Free starter provided by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/tailwind-css-free-starters/main/media/tailwind-css-vue-notus-free-starter.jpg)
+
+<br />
+
 ## ✨ [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157)
 
 Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard template based on Vue CLI, Vuex & BootstrapVue component framework. If you are looking to build backend admin panel for yourself or your client’s project, Xtreme BootstrapVue Admin Lite is the perfect choice. It comes easy to use features and it is highly customisable. 
@@ -83,17 +94,6 @@ Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, 
 - 👉 [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
 
 ![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
-
-<br />
-
-## ✨ [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200)
-
-The previous design can be downloaded also in Vue, another popular UI Framework. This Free Tailwind CSS Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [Vue Dashboard - Tailwind CSS](https://www.creative-tim.com/product/vue-notus?AFFILIATE=128200) - `product page`
-- 👉 More **[Vue Templates](https://bit.ly/3lkqRV4)** provided by Creative-Tim 
-
-![Tailwind CSS Vue - Free starter provided by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/tailwind-css-free-starters/main/media/tailwind-css-vue-notus-free-starter.jpg)
 
 <br />
 
