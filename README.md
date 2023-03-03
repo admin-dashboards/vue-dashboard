@@ -2,7 +2,7 @@
 
 A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
-> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
+> Curated by [Sm0ke](https://twitter.com/Sm0keDev) from 🚀 [HackLand](https://appseed.us/) 
 
 <br />
 
