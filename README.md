@@ -1,6 +1,6 @@
-# [Free Vue Dashboards](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1)
+# [Free Vue Dashboards](https://github.com/admin-dashboards/vue-dashboard)
 
-A curated list with [Vue Admin Dashboards](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
+A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/vue-dashboard), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev) from 🚀 [HackLand](https://appseed.us/) 
 
@@ -137,4 +137,4 @@ The previous design can be downloaded also in Vue, another popular UI Framework.
 - ✨ More [Admin Dashboards](https://www.admin-dashboards.com/) - a huge index with products
 
 ---
-Vue Dashboards and Templates - Open-Source and free (curated List)
+[Free Vue Dashboards](https://github.com/admin-dashboards/vue-dashboard) - Open-Source and free (curated List)
