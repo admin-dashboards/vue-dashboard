@@ -1,4 +1,4 @@
-# [Free Vue Dashboards](https://github.com/admin-dashboards/vue-dashboard)
+# [Vue Dashboards](https://github.com/admin-dashboards/vue-dashboard) `ALL Free`
 
 A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/vue-dashboard), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
