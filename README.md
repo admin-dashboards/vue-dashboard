@@ -6,6 +6,40 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br /> 
 
+## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
+
+Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
+
+- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
+
+![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
+
+<br />
+
+## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
+
+Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard template for your projects. If you are looking for a modern yet clean admin template for your backend project, Flexy Admin is the right choice.
+
+- 👉 [Flexy Vue Template](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157) - product page
+- 👉 [Flexy Vue Template](https://flexy-vuejs-free.netlify.app/dashboard) - LIVE demo
+
+![Flexy - Open-source Vue3 template by WrapPixel.](https://user-images.githubusercontent.com/51854817/186126220-ef01d34a-d5a4-40e5-85fa-8260066c9771.png)
+
+<br />
+
+## ✨ [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
+
+Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
+
+- 👉 [Vue Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
+
+![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
+
+<br /> 
+
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
@@ -38,40 +72,6 @@ Xtreme BootstrapVue Admin Lite is easy to use and powerful VueJs admin dashboard
 - 👉 [Xtreme Vue Admin Lite](https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/?ref=157) - product page
 
 ![Xtreme Vue Admin Lite - Open-Source Vue Template from WrapPixel.](https://user-images.githubusercontent.com/51070104/181697344-9744bb49-14c7-419c-97db-952757308ce4.jpg)
-
-<br />
-
-## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
-
-Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
-
-- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
-
-![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
-
-<br />
-
-## ✨ [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
-
-Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
-
-- 👉 [Vue Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
-
-![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
-
-<br /> 
-
-## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
-
-Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard template for your projects. If you are looking for a modern yet clean admin template for your backend project, Flexy Admin is the right choice.
-
-- 👉 [Flexy Vue Template](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157) - product page
-- 👉 [Flexy Vue Template](https://flexy-vuejs-free.netlify.app/dashboard) - LIVE demo
-
-![Flexy - Open-source Vue3 template by WrapPixel.](https://user-images.githubusercontent.com/51854817/186126220-ef01d34a-d5a4-40e5-85fa-8260066c9771.png)
 
 <br />
 
