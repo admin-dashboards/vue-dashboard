@@ -6,17 +6,18 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br /> 
 
-## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
+## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
-Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
+Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
-- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
+- 👉 [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Soft UI Dashboard](https://demos.creative-tim.com/vue-soft-ui-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
-![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
+From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
 
-<br />
+![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
+
+<br /> 
 
 ## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
 
@@ -29,6 +30,18 @@ Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard t
 
 <br />
 
+## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
+
+Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
+
+- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
+
+![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
+
+<br />
+
 ## ✨ [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
 
 Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
@@ -37,19 +50,6 @@ Start your Development with an Innovative Admin Template for Bootstrap 5 and Vue
 - 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
 
 ![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
-
-<br /> 
-
-## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
-
-Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Soft UI Dashboard](https://demos.creative-tim.com/vue-soft-ui-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
-
-![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
 
 <br /> 
 
