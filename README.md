@@ -2,9 +2,11 @@
 
 A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/vue-dashboard), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
-> Curated by [Sm0ke](https://twitter.com/Sm0keDev) from 🚀 [HackLand](https://appseed.us/) 
+<br />
+ 
+> 🚀 `Sponsored` by **[WebFlow](https://webflow.grsm.io/jwra8zwbaz4l)**, a modern way to `build websites without coding`
 
-<br /> 
+<br />
 
 ## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
 
