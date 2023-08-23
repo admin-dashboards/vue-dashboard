@@ -2,7 +2,7 @@
 
 A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/vue-dashboard), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
-> 🚀 Content provided by [DeployPRO - Deployment process simplified](https://deploypro.dev/) — Works with `AWS`, `DO`, `GCP` and `Azure`
+> 🚀 Sponsored by [DeployPRO - Deployment process simplified](https://deploypro.dev/) — Works with `AWS`, `DO`, `GCP` and `Azure`
 
 <br />
 
