@@ -6,6 +6,17 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br />
 
+## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
+
+Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard template for your projects. If you are looking for a modern yet clean admin template for your backend project, Flexy Admin is the right choice.
+
+- 👉 [Flexy Vue Template](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157) - product page
+- 👉 [Flexy Vue Template](https://flexy-vuejs-free.netlify.app/dashboard) - LIVE demo
+
+![Flexy - Open-source Vue3 template by WrapPixel.](https://user-images.githubusercontent.com/51854817/186126220-ef01d34a-d5a4-40e5-85fa-8260066c9771.png)
+
+<br /> 
+
 ## ✨ [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
@@ -41,17 +52,6 @@ Vuetify **Vue Dashboard** is developed exactly according to Material Design spec
 ![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
 
 <br />
-
-## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
-
-Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard template for your projects. If you are looking for a modern yet clean admin template for your backend project, Flexy Admin is the right choice.
-
-- 👉 [Flexy Vue Template](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157) - product page
-- 👉 [Flexy Vue Template](https://flexy-vuejs-free.netlify.app/dashboard) - LIVE demo
-
-![Flexy - Open-source Vue3 template by WrapPixel.](https://user-images.githubusercontent.com/51854817/186126220-ef01d34a-d5a4-40e5-85fa-8260066c9771.png)
-
-<br /> 
 
 ## ✨ [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
 
