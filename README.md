@@ -6,6 +6,29 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br />
 
+## ✨ [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
+
+Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
+
+- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
+
+![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
+
+<br />
+
+## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
+
+Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
+
+- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
+
+![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
+
+<br />
+
 ## ✨ [Flexy Vue3](https://www.wrappixel.com/templates/flexy-vuejs-admin-free/?ref=157)
 
 Flexy Vuetify Vue3 Dashboard Lite is a basic yet very useful Vuetify dashboard template for your projects. If you are looking for a modern yet clean admin template for your backend project, Flexy Admin is the right choice.
@@ -29,29 +52,6 @@ From specially designed dashboards for smart homes, virtual reality, and automot
 ![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
 
 <br /> 
-
-## ✨ [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
-
-Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
-
-- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
-
-![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
-
-<br />
-
-## ✨ [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
-
-Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
-
-- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
-
-![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
-
-<br />
 
 ## ✨ [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
 
