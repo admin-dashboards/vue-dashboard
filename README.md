@@ -6,6 +6,14 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br />
 
+## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `70%Off`
+
+> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
+ 
+[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
+
+<br />
+
 ## ✨ [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
 
 This free Vuejs admin template is developer-friendly, highly customizable, and very easy to use. It allows you to create web apps in no time without any hassle.
