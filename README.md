@@ -14,6 +14,19 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br />
 
+## ✨ [Spike VueJs](https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=157)
+
+If you’re looking for some good Vuetify templates to take your design projects to the next level, then you should go for Spike Free VueJs Admin. Its flexible and responsive design makes it a perfect fit for any app or project.
+
+- 👉 [Spike VueJs](https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=157) - product page (contains download link)
+- 👉 More [Free Templates](https://www.wrappixel.com/templates/category/free-templates/?ref=157) provided by WrapPixel
+
+This stunning Vuetify admin template can be customised perfectly as per your needs. If you’re working on a new project or creating a new application, then Spike Vuetify Admin can be your handy tool at all times.
+
+![Spike VueJs - Free Dashboard Template](https://github.com/admin-dashboards/vue-dashboard/assets/51854817/9a5409f7-4fa1-4c07-9ee7-8bb6c9bb0050)
+
+<br />
+
 ## ✨ [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
 
 This free Vuejs admin template is developer-friendly, highly customizable, and very easy to use. It allows you to create web apps in no time without any hassle.
