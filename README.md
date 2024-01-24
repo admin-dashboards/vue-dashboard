@@ -6,14 +6,6 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br />
 
-## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
-
-> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
- 
-[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
-
-<br />
-
 ## ✨ [Spike VueJs](https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=157)
 
 If you’re looking for some good Vuetify templates to take your design projects to the next level, then you should go for Spike Free VueJs Admin. Its flexible and responsive design makes it a perfect fit for any app or project.
