@@ -6,6 +6,30 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br />
 
+## [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
+
+Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
+
+- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
+
+![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
+
+<br />
+
+## [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
+
+This free Vuejs admin template is developer-friendly, highly customizable, and very easy to use. It allows you to create web apps in no time without any hassle.
+
+- 👉 [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1) - product page (contains download link)
+- 👉 More [Admin Templates](https://adminmart.com/templates/free-admin-templates/?ref=1) provided by AdminMart (all free)
+
+Developing a web app from scratch is a nightmare of every developer while getting a free Vuejs template like this is every developer’s dream.
+
+![Modernize Free Vuetify - Free Vue Dashboard by AdminMart](https://github.com/admin-dashboards/vue-dashboard/assets/51854817/2723cbf7-db1f-4dd8-a130-a6180a14f417)
+
+<br />
+
 ## [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
 
 Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
@@ -28,30 +52,6 @@ If you’re looking for some good Vuetify templates to take your design projects
 This stunning Vuetify admin template can be customised perfectly as per your needs. If you’re working on a new project or creating a new application, then Spike Vuetify Admin can be your handy tool at all times.
 
 ![Spike VueJs - Free Dashboard Template](https://github.com/admin-dashboards/vue-dashboard/assets/51854817/9a5409f7-4fa1-4c07-9ee7-8bb6c9bb0050)
-
-<br />
-
-## [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
-
-Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
-
-- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
-
-![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
-
-<br />
-
-## [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
-
-This free Vuejs admin template is developer-friendly, highly customizable, and very easy to use. It allows you to create web apps in no time without any hassle.
-
-- 👉 [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1) - product page (contains download link)
-- 👉 More [Admin Templates](https://adminmart.com/templates/free-admin-templates/?ref=1) provided by AdminMart (all free)
-
-Developing a web app from scratch is a nightmare of every developer while getting a free Vuejs template like this is every developer’s dream.
-
-![Modernize Free Vuetify - Free Vue Dashboard by AdminMart](https://github.com/admin-dashboards/vue-dashboard/assets/51854817/2723cbf7-db1f-4dd8-a130-a6180a14f417)
 
 <br />
 
