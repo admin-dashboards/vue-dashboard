@@ -6,6 +6,18 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br />
 
+## [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
+
+Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
+
+- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
+
+![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
+
+<br />
+
 ## [Spike VueJs](https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=157)
 
 If you’re looking for some good Vuetify templates to take your design projects to the next level, then you should go for Spike Free VueJs Admin. Its flexible and responsive design makes it a perfect fit for any app or project.
@@ -40,18 +52,6 @@ This free Vuejs admin template is developer-friendly, highly customizable, and v
 Developing a web app from scratch is a nightmare of every developer while getting a free Vuejs template like this is every developer’s dream.
 
 ![Modernize Free Vuetify - Free Vue Dashboard by AdminMart](https://github.com/admin-dashboards/vue-dashboard/assets/51854817/2723cbf7-db1f-4dd8-a130-a6180a14f417)
-
-<br />
-
-## [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
-
-Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Muse - Vue Ant Design Dashboard is ready to help you create stunning websites and webapps.
-
-- 👉 [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Vue Ant.Design](https://demos.creative-tim.com/muse-vue-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - product page
-
-![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
 
 <br />
 
