@@ -2,8 +2,6 @@
 
 A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/vue-dashboard), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
-> Provided by **[Django App Generator](https://app-generator.dev/django/)** — A free service for coding apps in no-time
-
 <br />
 
 ## [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
