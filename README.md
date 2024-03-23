@@ -9,7 +9,7 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 This free Vuejs admin template is developer-friendly, highly customizable, and very easy to use. It allows you to create web apps in no time without any hassle.
 
 - 👉 [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1) - product page (contains download link)
-- 👉 More [Admin Templates](https://adminmart.com/templates/free-admin-templates/?ref=1) provided by AdminMart (all free)
+- 👉 More [MUI Templates](https://adminmart.com/templates/material-ui/?ref=1) provided by `AdminMart`
 
 Developing a web app from scratch is a nightmare of every developer while getting a free Vuejs template like this is every developer’s dream.
 
