@@ -4,6 +4,31 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br /> 
 
+## [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
+
+This free Vuejs admin template is developer-friendly, highly customizable, and very easy to use. It allows you to create web apps in no time without any hassle.
+
+- 👉 [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1) - product page (contains download link)
+- 👉 More [MUI Templates](https://adminmart.com/templates/material-ui/?ref=1) provided by `AdminMart`
+
+Developing a web app from scratch is a nightmare of every developer while getting a free Vuejs template like this is every developer’s dream.
+
+![Modernize Free Vuetify - Free Vue Dashboard by AdminMart](https://github.com/admin-dashboards/vue-dashboard/assets/51854817/2723cbf7-db1f-4dd8-a130-a6180a14f417)
+
+<br />
+
+## [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
+
+Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Soft UI Dashboard](https://demos.creative-tim.com/vue-soft-ui-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
+
+![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
+
+<br /> 
 
 ## [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
 
@@ -38,32 +63,6 @@ Vuetify **Vue Dashboard** is developed exactly according to Material Design spec
 ![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
 
 <br />
-
-## [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
-
-This free Vuejs admin template is developer-friendly, highly customizable, and very easy to use. It allows you to create web apps in no time without any hassle.
-
-- 👉 [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1) - product page (contains download link)
-- 👉 More [MUI Templates](https://adminmart.com/templates/material-ui/?ref=1) provided by `AdminMart`
-
-Developing a web app from scratch is a nightmare of every developer while getting a free Vuejs template like this is every developer’s dream.
-
-![Modernize Free Vuetify - Free Vue Dashboard by AdminMart](https://github.com/admin-dashboards/vue-dashboard/assets/51854817/2723cbf7-db1f-4dd8-a130-a6180a14f417)
-
-<br />
-
-## [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
-
-Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Soft UI Dashboard](https://demos.creative-tim.com/vue-soft-ui-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
-
-![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
-
-<br /> 
 
 ## [Spike VueJs](https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=157)
 
