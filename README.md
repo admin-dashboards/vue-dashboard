@@ -4,6 +4,17 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br /> 
 
+## [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
+
+Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
+
+- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
+
+![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
+
+<br />
+
 ## [Muse Vue Ant.Design](https://www.creative-tim.com/product/muse-vue-ant-design-dashboard?AFFILIATE=128200)
 
 Muse - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized.
@@ -39,17 +50,6 @@ Start your Development with an Innovative Admin Template for Bootstrap 5 and Vue
 ![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
 
 <br />  
-
-## [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
-
-Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
-
-- 👉 [Vue Dashboard Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Dashboard Vuetify Material](https://demos.creative-tim.com/vuetify-material-dashboard/#/?AFFILIATE=128200) - `LIVE demo` 
-
-![Vue Dashboard Vuetify Material - main dashboard screen](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vuetify-material-dashboard-screen.png)
-
-<br />
 
 ## [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
 
