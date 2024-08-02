@@ -4,6 +4,17 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br /> 
 
+## [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
+
+Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
+
+- 👉 [Vue Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
+
+![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
+
+<br /> 
+
 ## [Vue Dashboard - Vuetify Material](https://www.creative-tim.com/product/vuetify-material-dashboard?AFFILIATE=128200)
 
 Vuetify **Vue Dashboard** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
@@ -39,17 +50,6 @@ From specially designed dashboards for smart homes, virtual reality, and automot
 ![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
 
 <br />  
-
-## [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
-
-Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
-
-- 👉 [Vue Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
-
-![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
-
-<br /> 
 
 ## [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
 
