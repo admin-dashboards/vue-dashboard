@@ -2,6 +2,8 @@
 
 A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/vue-dashboard), released under the MIT license and actively supported by the publishers. For newcomers, Vue is a leading JS framework used to code interactive user interfaces with speed.
 
+> *Thanks for reading!* - Content provided by **[App Generator](https://app-generator.dev/)**.
+ 
 <br /> 
 
 ## [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
