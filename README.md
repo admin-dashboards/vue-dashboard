@@ -4,6 +4,17 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 <br /> 
 
+## [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
+
+Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
+
+![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
+
+<br />
+
 ## [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
 
 Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
@@ -50,17 +61,6 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 ![Muse Vue Ant.Design - Open-Source Vue template](https://user-images.githubusercontent.com/51854817/179388910-7d125c9e-4d82-472b-ba68-5b0e0bbbad2d.png) 
 
 <br /> 
-
-## [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
-
-Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
-
-![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
-
-<br />
 
 ## [Modernize Free Vuetify](https://adminmart.com/product/modernize-free-vuetify-vue-js-admin-dashboard/?ref=1)
 
