@@ -8,7 +8,7 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
 
 ## [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
-Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Product actively supported by **[Creative-Tim](https://app-generator.dev/agency/creative-tim/)**.
 
 - 👉 [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) - `product page`
 - 👉 [Vue Soft UI Dashboard](https://demos.creative-tim.com/vue-soft-ui-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
@@ -32,7 +32,7 @@ Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, 
 
 ## [Argon Dashboard Vue](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) 
 
-Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
+Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing  - Product actively supported by **[Creative-Tim](https://app-generator.dev/agency/creative-tim/)**.
 
 - 👉 [Vue Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) - `product page`
 - 👉 [Vue Argon Dashboard](https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard-default?AFFILIATE=128200) - `LIVE Demo`
