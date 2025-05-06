@@ -6,6 +6,17 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
  
 <br /> 
 
+## [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
+
+Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
+
+![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
+
+<br />
+
 ## [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Product actively supported by **[Creative-Tim](https://app-generator.dev/agency/creative-tim/)**.
@@ -16,17 +27,6 @@ Vue Soft UI Dashboard is built with over 70 frontend individual elements, like b
 From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
 
 ![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
-
-<br />
-
-## [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200)
-
-Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [BootstrapVue Argon](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
-
-![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
 
 <br />
 
