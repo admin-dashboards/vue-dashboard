@@ -6,19 +6,15 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
  
 <br />
 
-## Affiliate Services
-
-**High-quality Services and products we recommend** to all our users.
-
-> 👉 **[HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)**
+## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
 
 One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
-Here are the core services we recommend: 
+**Here are the core services**:
 
-- [HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)
+- [HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - 3months FREE
 - [Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)
 - [eCommerce Builder - AI Assisted](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)
-- [StartUp Cloud Hosting](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17) 
+- [StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17) - 3months FREE
 
 <br />
 
