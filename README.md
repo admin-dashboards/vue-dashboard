@@ -6,6 +6,19 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
  
 <br />
 
+## [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
+
+Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Product actively supported by **[Creative-Tim](https://app-generator.dev/agency/creative-tim/)**.
+
+- 👉 [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Vue Soft UI Dashboard](https://demos.creative-tim.com/vue-soft-ui-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
+
+![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
+
+<br />
+
 ## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
 
 One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
@@ -26,19 +39,6 @@ Bootstrap **Vue Argon Dashboard** is built with over 100 individual components, 
 - 👉 [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE demo`
 
 ![Vue Dashboard - Bootstrap Argon, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard/master/media/vue-dashboard-argon-screen-maps.png)
-
-<br />
-
-## [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
-
-Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Product actively supported by **[Creative-Tim](https://app-generator.dev/agency/creative-tim/)**.
-
-- 👉 [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Vue Soft UI Dashboard](https://demos.creative-tim.com/vue-soft-ui-dashboard/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
-
-![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
 
 <br />
 
