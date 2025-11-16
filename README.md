@@ -6,6 +6,16 @@ A curated list with [Vue Admin Dashboards](https://github.com/admin-dashboards/v
  
 <br />
 
+## `PROMO` Domains for sale
+
+- 👉 **[AppSeed.us - $49k](https://appseed.us/)**
+- 👉 **[Admin-Dashboards.com - $15k](https://www.admin-dashboards.com/)**
+- 👉 **[UI-Themes.com - $5k](https://ui-themes.com/)**
+- 👉 **[Simpllo.com - $10k](https://www.simpllo.com/)**
+- 👉 **[123SiteBuilder.net - $5k](https://www.123sitebuilder.net/)**
+
+<br />
+
 ## [Vue Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200)
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Product actively supported by **[Creative-Tim](https://app-generator.dev/agency/creative-tim/)**.
